@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name "NetworkStackWithECS" --template-body file://~/Documents/aws-workspace/CloudFormationWorkspace/Public-Network.yml --capabilities CAPABILITY_IAM
